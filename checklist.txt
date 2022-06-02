@@ -1,0 +1,18 @@
+PENDING:
+Fetch phase matching results.
+Fetch the list of contacts with pagination.
+Implement an endpoint to get the JWT token.
+Use dependency injection.
+Add proper comments.
+Add README file for documentation and execution detail.
+
+
+DONE:
+Add validation wherever required.
+Add bulk contacts.
+Fetch details of single contact.
+Update the given contact.
+Add JWT authentication to secure API.
+Exception handling and Error API response.
+Add a new contact.
+Delete the given contact.
